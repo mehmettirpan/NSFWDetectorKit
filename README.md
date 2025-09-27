@@ -81,6 +81,14 @@ CoreMLNSFWScanner.shared.classify(
 }
 ```
 
+## 📱 Demo App
+
+If you want to test this Swift Package with a simple UI application, you can check out the demo project here:
+
+👉 [NSFWDetector-Test](https://github.com/mehmettirpan/NSFWDetector-Test.git)
+
+This project provides a basic interface to load images and run the NSFW classification in real-time, making it easier to experiment with thresholds and outputs.
+
 ---
 
 ## 📝 Notes
@@ -199,6 +207,14 @@ CoreMLNSFWScanner.shared.classify(
     }
 }
 ```
+
+## 📱 Demo Uygulaması
+
+Bu Swift Package'i basit bir arayüz ile test etmek isterseniz demo projeye göz atabilirsiniz:
+
+👉 [NSFWDetector-Test](https://github.com/mehmettirpan/NSFWDetector-Test.git)
+
+Bu proje, görselleri yükleyip NSFW sınıflandırmasını gerçek zamanlı çalıştırabileceğiniz basit bir arayüz sunar. Böylece eşik değerlerini ve çıktılarını kolayca deneyebilirsiniz.
 
 ---
 
